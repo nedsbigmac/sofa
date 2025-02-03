@@ -1,5 +1,5 @@
 {
-    "etag": "d04526cee1c8ed122cb332218720d00ce16da77abe1c10743c5cbcc9c0e1795f",
+    "etag": "89a77c81ffc14e6bc2b88f107b588935beb7092d070d0e6eef07eb89b2e92a2f",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -250,7 +250,7 @@
                 {
                     "ProductVersion": "16.7.10",
                     "Build": "20H6350",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad6,11",
@@ -285,7 +285,7 @@
                 {
                     "ProductVersion": "18.3",
                     "Build": "22D63",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad11,1",
@@ -374,7 +374,7 @@
                 {
                     "ProductVersion": "18.3",
                     "Build": "22D6063",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad11,1",
@@ -517,7 +517,7 @@
                 {
                     "ProductVersion": "16.7.10",
                     "Build": "20H350",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad6,11",
@@ -633,7 +633,7 @@
                 {
                     "ProductVersion": "17.7.4",
                     "Build": "21H414",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad7,1",
@@ -647,7 +647,7 @@
                 {
                     "ProductVersion": "17.7.4",
                     "Build": "21H6414",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad7,1",
@@ -661,7 +661,7 @@
                 {
                     "ProductVersion": "12.5.7",
                     "Build": "16H81",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad4,1",
@@ -683,7 +683,7 @@
                 {
                     "ProductVersion": "12.5.7",
                     "Build": "16H6081",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad4,1",
@@ -725,7 +725,7 @@
                 {
                     "ProductVersion": "15.8.3",
                     "Build": "19H386",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad5,1",
@@ -765,7 +765,7 @@
                 {
                     "ProductVersion": "15.8.3",
                     "Build": "19H6386",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "iPad5,1",
@@ -844,7 +844,7 @@
                 {
                     "ProductVersion": "14.7.3",
                     "Build": "23H417",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "J132AP",
@@ -908,7 +908,7 @@
                 {
                     "ProductVersion": "15.3",
                     "Build": "24D60",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "J132AP",
@@ -979,7 +979,7 @@
                 {
                     "ProductVersion": "13.7.3",
                     "Build": "22H417",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "J132AP",
@@ -1042,7 +1042,7 @@
                 {
                     "ProductVersion": "12.7.6",
                     "Build": "21H1320",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "J132AP",
@@ -1108,7 +1108,7 @@
                 {
                     "ProductVersion": "11.7.10",
                     "Build": "20G1427",
-                    "PostingDate": "2025-01-27",
+                    "PostingDate": "2025-02-03",
                     "ExpirationDate": "2025-05-04",
                     "SupportedDevices": [
                         "J132AP",
