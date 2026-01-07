@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2026-01-07T19:22:54+00:00Z",
-        "UpdateHash": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2"
+        "LastCheck": "2026-01-07T20:29:40+00:00Z",
+        "UpdateHash": "5d6197a88666730c1912926f90f871e4ea9d609cf5eb25f57f44142cf3ba473f"
     },
     "log": [
+        {
+            "timestamp": "2026-01-07T20:29:40+00:00Z",
+            "new_etag": "5d6197a88666730c1912926f90f871e4ea9d609cf5eb25f57f44142cf3ba473f",
+            "status": "success (200)",
+            "previous_etag": "5d6197a88666730c1912926f90f871e4ea9d609cf5eb25f57f44142cf3ba473f"
+        },
+        {
+            "timestamp": "2026-01-07T20:29:31+00:00Z",
+            "new_etag": "5d6197a88666730c1912926f90f871e4ea9d609cf5eb25f57f44142cf3ba473f",
+            "status": "success (200)",
+            "previous_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2"
+        },
         {
             "timestamp": "2026-01-07T19:22:54+00:00Z",
             "new_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2026-01-07T16:56:32+00:00Z",
-            "new_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2",
-            "status": "success (200)",
-            "previous_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2"
-        },
-        {
-            "timestamp": "2026-01-07T13:21:41+00:00Z",
-            "new_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2",
-            "status": "success (200)",
-            "previous_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2"
-        },
-        {
-            "timestamp": "2026-01-07T13:21:31+00:00Z",
             "new_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2",
             "status": "success (200)",
             "previous_etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2"

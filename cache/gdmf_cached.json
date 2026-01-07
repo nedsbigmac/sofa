@@ -1,5 +1,5 @@
 {
-    "etag": "67223ace395582f18ee76ddebe59b78a2bca5ba36180aa7e0a994975b4f0b8f2",
+    "etag": "5d6197a88666730c1912926f90f871e4ea9d609cf5eb25f57f44142cf3ba473f",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -1485,13 +1485,21 @@
                     "PostingDate": "2025-11-03",
                     "ExpirationDate": "2026-04-07",
                     "SupportedDevices": [
-                        "AppleTV11,1",
-                        "AppleTV14,1",
-                        "AppleTV5,3",
-                        "AppleTV6,2",
                         "AudioAccessory1,1",
                         "AudioAccessory5,1",
                         "AudioAccessory6,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "26.1",
+                    "Build": "23J6582",
+                    "PostingDate": "2025-11-03",
+                    "ExpirationDate": "2026-03-12",
+                    "SupportedDevices": [
+                        "AppleTV11,1",
+                        "AppleTV14,1",
+                        "AppleTV5,3",
+                        "AppleTV6,2"
                     ]
                 },
                 {
@@ -3027,13 +3035,21 @@
                     "PostingDate": "2025-11-03",
                     "ExpirationDate": "2026-04-07",
                     "SupportedDevices": [
-                        "AppleTV11,1",
-                        "AppleTV14,1",
-                        "AppleTV5,3",
-                        "AppleTV6,2",
                         "AudioAccessory1,1",
                         "AudioAccessory5,1",
                         "AudioAccessory6,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "26.1",
+                    "Build": "23J582",
+                    "PostingDate": "2025-11-03",
+                    "ExpirationDate": "2026-03-12",
+                    "SupportedDevices": [
+                        "AppleTV11,1",
+                        "AppleTV14,1",
+                        "AppleTV5,3",
+                        "AppleTV6,2"
                     ]
                 },
                 {
