@@ -1,5 +1,5 @@
 {
-    "etag": "5d6197a88666730c1912926f90f871e4ea9d609cf5eb25f57f44142cf3ba473f",
+    "etag": "4e534d20caa34d697df2bb9eff5def750cdba0f8e96a01f9aff6f14eb7f5200a",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -1483,23 +1483,15 @@
                     "ProductVersion": "26.1",
                     "Build": "23J6582",
                     "PostingDate": "2025-11-03",
-                    "ExpirationDate": "2026-04-07",
-                    "SupportedDevices": [
-                        "AudioAccessory1,1",
-                        "AudioAccessory5,1",
-                        "AudioAccessory6,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.1",
-                    "Build": "23J6582",
-                    "PostingDate": "2025-11-03",
                     "ExpirationDate": "2026-03-12",
                     "SupportedDevices": [
                         "AppleTV11,1",
                         "AppleTV14,1",
                         "AppleTV5,3",
-                        "AppleTV6,2"
+                        "AppleTV6,2",
+                        "AudioAccessory1,1",
+                        "AudioAccessory5,1",
+                        "AudioAccessory6,1"
                     ]
                 },
                 {
@@ -3033,23 +3025,15 @@
                     "ProductVersion": "26.1",
                     "Build": "23J582",
                     "PostingDate": "2025-11-03",
-                    "ExpirationDate": "2026-04-07",
-                    "SupportedDevices": [
-                        "AudioAccessory1,1",
-                        "AudioAccessory5,1",
-                        "AudioAccessory6,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.1",
-                    "Build": "23J582",
-                    "PostingDate": "2025-11-03",
                     "ExpirationDate": "2026-03-12",
                     "SupportedDevices": [
                         "AppleTV11,1",
                         "AppleTV14,1",
                         "AppleTV5,3",
-                        "AppleTV6,2"
+                        "AppleTV6,2",
+                        "AudioAccessory1,1",
+                        "AudioAccessory5,1",
+                        "AudioAccessory6,1"
                     ]
                 },
                 {
