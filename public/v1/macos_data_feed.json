@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "9f596083dc30f20388cbef83b6c28c32b7abd7167f78974f5ab272c4f2c5ed88",
+    "UpdateHash": "e7e4526cf0de1ce852ee5b113435e3176d997fc4e3427a375925dc7f207b9df8",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -418,6 +418,7 @@
                         "CVE-2026-28915": false,
                         "CVE-2026-43659": false,
                         "CVE-2026-28923": false,
+                        "CVE-2026-64705": false,
                         "CVE-2026-28925": false,
                         "CVE-2025-43524": false,
                         "CVE-2026-28977": false,
@@ -441,6 +442,7 @@
                         "CVE-2026-43666": false,
                         "CVE-2026-28906": false,
                         "CVE-2026-28840": false,
+                        "CVE-2026-28912": false,
                         "CVE-2026-43656": false,
                         "CVE-2026-39870": false,
                         "CVE-2026-28846": false,
@@ -454,7 +456,7 @@
                         "CVE-2026-28920": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 42,
+                    "UniqueCVEsCount": 44,
                     "DaysSincePreviousRelease": 48
                 },
                 {
