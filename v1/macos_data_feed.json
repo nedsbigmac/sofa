@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "c0ab7b2eb269427d5efbc508efc3879072691de18486ada1e44474c5aeca259d",
+    "UpdateHash": "7dd7ba6c582908ebdd445990dbe11e81998fe1f18ea7143bb53c094eda5b6517",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -213,13 +213,16 @@
                     ],
                     "CVEs": {
                         "CVE-2026-43749": false,
+                        "CVE-2026-65404": false,
                         "CVE-2026-64767": false,
+                        "CVE-2026-43815": false,
                         "CVE-2026-23918": false,
                         "CVE-2026-64695": false,
                         "CVE-2026-43801": false,
                         "CVE-2026-43781": false,
                         "CVE-2026-64737": false,
                         "CVE-2026-43681": false,
+                        "CVE-2026-43761": false,
                         "CVE-2026-43672": false,
                         "CVE-2026-43763": false,
                         "CVE-2026-64702": false,
@@ -238,12 +241,15 @@
                         "CVE-2026-43711": false,
                         "CVE-2026-28936": false,
                         "CVE-2026-43738": false,
+                        "CVE-2026-84489": false,
                         "CVE-2026-43802": false,
                         "CVE-2026-64710": false,
                         "CVE-2026-39875": false,
                         "CVE-2026-43698": false,
                         "CVE-2026-3784": false,
                         "CVE-2026-3783": false,
+                        "CVE-2025-14017": false,
+                        "CVE-2025-14819": false,
                         "CVE-2026-43758": false,
                         "CVE-2026-64708": false,
                         "CVE-2026-28926": false,
@@ -253,6 +259,7 @@
                         "CVE-2026-64776": false,
                         "CVE-2026-43793": false,
                         "CVE-2026-43753": false,
+                        "CVE-2026-28836": false,
                         "CVE-2026-43714": false,
                         "CVE-2026-64740": false,
                         "CVE-2026-43796": false,
@@ -271,6 +278,7 @@
                         "CVE-2026-43661": false,
                         "CVE-2026-64754": false,
                         "CVE-2026-64693": false,
+                        "CVE-2026-64714": false,
                         "CVE-2026-43805": false,
                         "CVE-2026-39877": false,
                         "CVE-2026-43782": false,
@@ -315,8 +323,10 @@
                         "CVE-2026-43772": false,
                         "CVE-2026-28961": false,
                         "CVE-2026-64711": false,
+                        "CVE-2026-86902": false,
                         "CVE-2026-43765": false,
                         "CVE-2026-28896": false,
+                        "CVE-2026-28933": false,
                         "CVE-2026-43694": false,
                         "CVE-2026-39874": false,
                         "CVE-2026-64764": false,
@@ -341,7 +351,7 @@
                         "CVE-2026-28914": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 127,
+                    "UniqueCVEsCount": 137,
                     "DaysSincePreviousRelease": 77
                 },
                 {
@@ -6115,13 +6125,27 @@
     },
     "InstallationApps": {
         "LatestUMA": {
-            "title": "macOS Tahoe",
-            "version": "26.6.2",
-            "build": "25G83",
-            "apple_slug": "140-93587",
-            "url": "https://swcdn.apple.com/content/downloads/37/33/140-93587-A_GRFFH93NOL/f944yaqo1cjhh2m0kxrl0zhcpg9yb9qphv/InstallAssistant.pkg"
+            "title": "macOS 27 Golden Gate",
+            "version": "27.0",
+            "build": "26A428",
+            "apple_slug": "142-15488",
+            "url": "https://swcdn.apple.com/content/downloads/01/05/142-15488-A_9XNIAXWVVL/5ajxcy8xk014o98zz1uut0zrlaj2nx91ln/InstallAssistant.pkg"
         },
         "AllPreviousUMA": [
+            {
+                "title": "macOS Tahoe",
+                "version": "26.7",
+                "build": "25G229",
+                "apple_slug": "142-16670",
+                "url": "https://swcdn.apple.com/content/downloads/52/44/142-16670-A_C1NGFF0VNT/e1mno92ap4g9s6epq5bbee9a57b5tm983g/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Tahoe",
+                "version": "26.6.2",
+                "build": "25G83",
+                "apple_slug": "140-93587",
+                "url": "https://swcdn.apple.com/content/downloads/37/33/140-93587-A_GRFFH93NOL/f944yaqo1cjhh2m0kxrl0zhcpg9yb9qphv/InstallAssistant.pkg"
+            },
             {
                 "title": "macOS Tahoe",
                 "version": "26.6.1",
@@ -6149,6 +6173,13 @@
                 "build": "25F80",
                 "apple_slug": "122-84023",
                 "url": "https://swcdn.apple.com/content/downloads/22/07/122-84023-A_RQPL3GX2L6/l6vt7agjz206oaiyhvc0a4wupeffjk36st/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Sequoia",
+                "version": "15.8",
+                "build": "24H23",
+                "apple_slug": "142-16660",
+                "url": "https://swcdn.apple.com/content/downloads/24/14/142-16660-A_CTI1XX4VYC/dwxnuxoud4401qcf8to49p8iq1ij987j1e/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Sequoia",
@@ -6229,10 +6260,10 @@
             }
         ],
         "LatestMacIPSW": {
-            "macos_ipsw_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75212/A2A24B94-1FC1-45A3-93F7-C51B02AF1F4D/UniversalMac_26.6.2_25G83_Restore.ipsw",
-            "macos_ipsw_build": "25G83",
-            "macos_ipsw_version": "26.6.2",
-            "macos_ipsw_apple_slug": "140-75212"
+            "macos_ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw",
+            "macos_ipsw_build": "26A428",
+            "macos_ipsw_version": "27.0",
+            "macos_ipsw_apple_slug": "unknown_appleslug"
         }
     }
 }
