@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "837867699261bc1ddae2126b3f311c42e42b5ebd30122db05d4135e987c0d9d8",
+    "UpdateHash": "f957f653f90d44f37c4aec1548956c68decf2ced38951a64d6ce858de6253418",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -6126,12 +6126,26 @@
     "InstallationApps": {
         "LatestUMA": {
             "title": "macOS 27 Golden Gate",
-            "version": "27.0",
-            "build": "26A428",
-            "apple_slug": "142-15488",
-            "url": "https://swcdn.apple.com/content/downloads/01/05/142-15488-A_9XNIAXWVVL/5ajxcy8xk014o98zz1uut0zrlaj2nx91ln/InstallAssistant.pkg"
+            "version": "27.0.1",
+            "build": "26A434",
+            "apple_slug": "142-27367",
+            "url": "https://swcdn.apple.com/content/downloads/04/52/142-27367-A_W3GHHHB05E/4kfhtjlg2i1qcv0obh62hlfcambu6kv15n/InstallAssistant.pkg"
         },
         "AllPreviousUMA": [
+            {
+                "title": "macOS 27 Golden Gate",
+                "version": "27.0",
+                "build": "26A428",
+                "apple_slug": "142-15488",
+                "url": "https://swcdn.apple.com/content/downloads/01/05/142-15488-A_9XNIAXWVVL/5ajxcy8xk014o98zz1uut0zrlaj2nx91ln/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Tahoe",
+                "version": "26.7.1",
+                "build": "25G241",
+                "apple_slug": "142-28081",
+                "url": "https://swcdn.apple.com/content/downloads/51/17/142-28081-A_616Q67X32N/5atqz1miz61kmrim7fwkn7yi62xuzzcc0s/InstallAssistant.pkg"
+            },
             {
                 "title": "macOS Tahoe",
                 "version": "26.7",
@@ -6166,6 +6180,13 @@
                 "build": "25F84",
                 "apple_slug": "140-36226",
                 "url": "https://swcdn.apple.com/content/downloads/63/03/140-36226-A_WUCZCLWK7K/1elqm2ix9y06je9fgy9rdqed1jod0jgxoe/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Sequoia",
+                "version": "15.8.1",
+                "build": "24H32",
+                "apple_slug": "142-27431",
+                "url": "https://swcdn.apple.com/content/downloads/07/04/142-27431-A_VX0FXASAKC/m7trj81qnvp94e9nzr06e7qi9lqey7cwmu/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Sequoia",
@@ -6253,9 +6274,9 @@
             }
         ],
         "LatestMacIPSW": {
-            "macos_ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw",
-            "macos_ipsw_build": "26A428",
-            "macos_ipsw_version": "27.0",
+            "macos_ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw",
+            "macos_ipsw_build": "26A434",
+            "macos_ipsw_version": "27.0.1",
             "macos_ipsw_apple_slug": "unknown_appleslug"
         }
     }
